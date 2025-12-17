@@ -202,7 +202,3 @@ DELETE FROM zstudent
 * Executable ABAP classes using `IF_OO_ADT_CLASSRUN`
 * Eclipse ADT development workflow
 
----
-
-
-Just tell me 👍
